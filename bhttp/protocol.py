@@ -1,4 +1,4 @@
-"""BHTTP/1 codec and bounded TCP primitives; see docs/protocol-draft.md."""
+"""BHTTP/1 codec and bounded TCP primitives; see docs/spec.md."""
 
 from dataclasses import dataclass
 import re
